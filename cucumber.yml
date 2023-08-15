@@ -1,0 +1,11 @@
+# YAML Templates
+default: --publish-quiet -p pretty -p ns -p co -p format_allure -p format_json -p format_html -p cj_hml
+ns: --no-source
+pretty: --format pretty
+co: --color
+format_json: -p pretty --format json --out=reports/target/cucumber-jornada.json
+format_html: -p pretty --format html --out=reports/html/cucumber-jornada.html
+format_allure: --format AllureCucumber::CucumberFormatter --out reports/allure-results
+
+# Environment geral
+cj_hml: ENV_RUN=cj_hml
