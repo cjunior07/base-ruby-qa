@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=260&section=header&text=Automation&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tech%20your%20business%20free&descAlignY=56&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=260&section=header&text=Automation&fontSize=90&animation=fadeIn&fontAlignY=38&desc=CJ%20Tech&descAlignY=56&descAlign=50">
   <h1 align="center">Projeto de Automação de Testes Ruby</h1>
 </p> 
 
