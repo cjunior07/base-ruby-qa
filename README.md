@@ -70,7 +70,7 @@ funções.
     - ***Support***
         - Contém os arquivos Ruby onde são expecificadas as principais configurações do projeto.
     - ***Reports***
-        - Contém os arquivos de report gerados após a execussão do projeto.
+        - Contém os arquivos de report gerados após a execução do projeto.
 
 ## ☑ Roadmap
 
